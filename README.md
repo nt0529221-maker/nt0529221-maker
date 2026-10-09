@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+### 🐍 GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nt0529221-maker/nt0529221-maker/output/github-snake-dark.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nt0529221-maker/nt0529221-maker/output/github-snake.svg">
+</picture>
+
 <!--
 **nt0529221-maker/nt0529221-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
