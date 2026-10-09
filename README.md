@@ -1,8 +1,13 @@
-# 💫 Hi there, I'm nt0529221-maker! 👋
+<div align="center">
+
+# ⚡ WELCOME TO MY CYBERSPACE ⚡
+### 🚀 *"Turning coffee into code & bugs into features"* ☕💻
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nt0529221-maker&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
 </p>
+
+</div>
 
 ### 🛠️ Tech Stack & Skills
 <p align="left">
@@ -29,6 +34,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nt0529221-maker/nt0529221-maker/output/github-snake-dark.svg">
   <img alt="github-snake" src="https://raw.githubusercontent.com/nt0529221-maker/nt0529221-maker/output/github-snake.svg">
 </picture>
+
 
 <!--
 **nt0529221-maker/nt0529221-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
